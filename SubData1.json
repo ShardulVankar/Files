@@ -1,0 +1,11 @@
+{
+	"rows":[
+		{"ID":"1","Scope":"Belt & Rope - Included"},
+		{"ID":"2","Scope":"Belt & Rope - Not Included"},
+		{"ID":"3","Scope":"Emergency Power Testing - No"},
+		{"ID":"4","Scope":"Emergency Power Testing - Yes"},
+		{"ID":"5","Scope":"Fireman's Service (SES) Testing - Keyswitch Testing Monthly Only Gearless"},
+		{"ID":"6","Scope":"Fireman's Service (SES) Testing - Keyswitch Testing Annual"},
+		{"ID":"7","Scope":"Fireman's Service (SES) Testing - Keyswitch Testing Quarterly"}
+	]
+}
