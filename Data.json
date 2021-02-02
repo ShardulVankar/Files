@@ -1,12 +1,12 @@
 {
 	"rows":[
-		{"EmployeeType":"Branch Service Sales Manager","MinimunPercentage":"85","MinimunPercentage":"93","ContractValue":"$100,000","ApprovalOrder":"1","ApprovalRequest":"No",
+		{"EmployeeType":"Branch Service Sales Manager","MinimunPercentage":"85","MaximumPercentage":"93","ContractValue":"$100,000","ApprovalOrder":"1","ApprovalRequest":"No",
 		"Status":"Active","IsOtisSignee":"No"},
-		{"EmployeeType":"Branch / General Manager","MinimunPercentage":"80","MinimunPercentage":"84","ContractValue":"$225,001","ApprovalOrder":"2","ApprovalRequest":"Yes",
+		{"EmployeeType":"Branch / General Manager","MinimunPercentage":"80","MaximumPercentage":"84","ContractValue":"$225,001","ApprovalOrder":"2","ApprovalRequest":"Yes",
 		"Status":"Active","IsOtisSignee":"Yes"},
-		{"EmployeeType":"Regional General Manager","MinimunPercentage":"0","MinimunPercentage":"79","ContractValue":"$450,001","ApprovalOrder":"3","ApprovalRequest":"Yes",
+		{"EmployeeType":"Regional General Manager","MinimunPercentage":"0","MaximumPercentage":"79","ContractValue":"$450,001","ApprovalOrder":"3","ApprovalRequest":"Yes",
 		"Status":"Active","IsOtisSignee":"Yes"},
-		{"EmployeeType":"Legal Approver","MinimunPercentage":"0","MinimunPercentage":"0","ContractValue":"$900,001","ApprovalOrder":"4","ApprovalRequest":"Yes",
+		{"EmployeeType":"Legal Approver","MinimunPercentage":"0","MaximumPercentage":"0","ContractValue":"$900,001","ApprovalOrder":"4","ApprovalRequest":"Yes",
 		"Status":"Active","IsOtisSignee":"Yes"}
 		
 	]
